@@ -1,0 +1,23 @@
+{
+    "assets": {
+        "AAO": {
+            "name": "kaleidoscope",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1517978642742x715990177821367900/kaleidoscope.min.js"
+        },
+        "AAR": {
+            "name": "marzipano",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1517982054502x238148291362449540/marzipano.js"
+        },
+        "AAS": {
+            "name": "pannellum.js",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1518395284968x616300575202331000/pannellum.js"
+        },
+        "AAT": {
+            "name": "pannellum.css",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1518395303437x194774348055943840/pannellum.css"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}

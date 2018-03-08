@@ -1,0 +1,64 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "360 Image Viewer",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1520543692579x384587735170498500/360viewerbg.png",
+    "fields": {
+        "AAP": {
+            "caption": "Image",
+            "default_val": "//s3.amazonaws.com/appforest_uf/f1520544310108x394956824369728600/MKZD_Bratcevo_2015-10_Equirectangular.jpg",
+            "doc": "Equirectangular image to display",
+            "editor": "DynamicValue",
+            "name": "image",
+            "rank": 0,
+            "value": "image"
+        },
+        "AAU": {
+            "caption": "Autoload",
+            "default_val": true,
+            "doc": "Autoload?",
+            "editor": "Checkbox",
+            "name": "autoload",
+            "rank": 1
+        },
+        "AAV": {
+            "caption": "Autorotate speed",
+            "default_val": -2,
+            "doc": "Speed to autorotate. Set to 0 for no autorotate.",
+            "editor": "StaticNumber",
+            "name": "autorotate",
+            "rank": 2
+        },
+        "AAW": {
+            "caption": "Preview Image",
+            "doc": "Preview image to display while image loads",
+            "editor": "Image",
+            "in_style": false,
+            "name": "preview_image",
+            "optional": true,
+            "rank": 3
+        },
+        "AAZ": {
+            "caption": "Show Controls",
+            "default_val": true,
+            "doc": "Show controls?",
+            "editor": "Checkbox",
+            "name": "show_controls",
+            "rank": 4
+        }
+    },
+    "icon": "ion-record",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    }
+}
