@@ -1,3 +1,7 @@
-This is a repository based on the [Bubble](https://bubble.is) plugin '360° Image Viewer'. This lets you use Github's functionality in terms of version control, forks and pull requests. Note that the the plugin code is stored on Bubble's servers, and you need to synchronize your repository in the Bubble Plugin Editor. 
+A 360° Image Viewer plugin for [Bubble applications](https://bubble.is).
 
- This plugin can be used in [Bubble applications](https://bubble.is).
+Display 360° spherical panorama images. Currently supports equirectangular images. Also supports looking around via accelerometer on mobile devices.
+
+Based on Pannellum- https://pannellum.org.
+
+This plugin can be used in [Bubble applications](https://bubble.is).
